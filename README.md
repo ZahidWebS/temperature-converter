@@ -19,8 +19,5 @@ A simple temperature converter built using **HTML, CSS, and JavaScript**.
 3. Select the unit to convert from and to.
 4. View the converted temperature instantly.
 
-## Live Demo
-[Try the converter online](https://username.github.io/temperature-converter/)
-
 ## Author
 Zahid Hussain
